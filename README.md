@@ -10,6 +10,7 @@
 
 ## Skills
 <img src="https://simpleicons.org/icons/cplusplus.svg" style="width: 100px; height: 100px; color: white">
+<img src="https://simpleicons.org/icons/python.svg" style="width: 100px; height: 100px; color: white">
 
 
 <div align="center" style="margin: 40px 0">
