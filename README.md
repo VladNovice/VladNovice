@@ -9,12 +9,7 @@
 </p>
 
 ## Skills
-<img src="https://simpleicons.org/icons/cplusplus.svg" style="width: 100px; height: 100px; color: white">
-<img src="https://simpleicons.org/icons/python.svg" style="width: 100px; height: 100px; color: white">
+<img src="https://simpleicons.org/icons/cplusplus.svg" align="left" width="100" height="100">
+<img src="https://simpleicons.org/icons/python.svg" align="left" width="100" height="100">
 
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/vladnovice/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=vladnovice&color=DE002D">
-   </a>
-</div>
