@@ -9,7 +9,8 @@
 </p>
 
 ## Skills
-<img src="https://simpleicons.org/icons/cplusplus.svg">
+<img src="https://simpleicons.org/icons/cplusplus.svg" style="width: 100px; height: 100px; color: white">
+
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/vladnovice/github-profile-views-counter">
