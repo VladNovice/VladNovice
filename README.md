@@ -1,4 +1,4 @@
-## Hi, my name is VladNovice :grey_question:
+## My name is VladNovice, but you can call me Vlad :grey_question:
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=vladnovice&show_icons=true&count_private=true"><img
