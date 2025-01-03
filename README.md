@@ -3,7 +3,21 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladnovice&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=chartreuse_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=chartreuse_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladnovice&theme=chartreuse_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladnovice&theme=chartreuse_dark&utcOffset=8)
+
+
+
+##About me
+
+    Name: Vlad Novice
+
+    Age: 15
+
+    I'm interested in: AI
+
+    OS: kali linux, windows 11
+
+
+
 
 
 
