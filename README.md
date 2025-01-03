@@ -1,8 +1,8 @@
 ## My name is VladNovice, but you can call me Vlad :grey_question:
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladnovice&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladnovice&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=midnight_purple) 
 
 
 
