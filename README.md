@@ -9,6 +9,8 @@
 </div>
 
 
+![](https://pin.it/1wY3Mmyun)
+
 
 ## About me
 
