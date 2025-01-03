@@ -6,7 +6,8 @@
 
 
 
-## About me
+<h2 style="color: purple;">About me</h2>
+
 
     Name: Vlad Novice
 
