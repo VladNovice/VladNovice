@@ -1,11 +1,9 @@
 ## My name is VladNovice, but you can call me Vlad :grey_question:
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladnovice&theme=chartreuse_dark" style="width: 100%;">
 
 
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=chartreuse_dark" style="width: 100%;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=chartreuse_dark" style="width: 100%;">
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladnovice&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=chartreuse_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=chartreuse_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladnovice&theme=chartreuse_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladnovice&theme=chartreuse_dark&utcOffset=8)
 
 
 
