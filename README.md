@@ -1,8 +1,12 @@
 ## My name is VladNovice, but you can call me Vlad :grey_question:
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladnovice&theme=midnight_purple" style="width: 100%;">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladnovice&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=midnight_purple) 
+<div style="display: flex;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=midnight_purple" alt="Repos per Language" style="width: 333px; height: auto; margin-right: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=midnight_purple" alt="Most Commit Language" style="width: 333px; height: auto; margin-right: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladnovice&theme=midnight_purple&utcOffset=8" alt="Productive Time" style="width: 333px; height: auto;">
+</div>
 
 
 
