@@ -2,10 +2,9 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladnovice&theme=chartreuse_dark" style="width: 100%;">
 
 
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=chartreuse_dark" style="width: 100%;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=chartreuse_dark" style="width: 100%;">
-</div>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=chartreuse_dark" style="width: 100%;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=chartreuse_dark" style="width: 100%;">
 
 
 
