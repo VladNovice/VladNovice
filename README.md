@@ -3,10 +3,10 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladnovice&theme=midnight_purple" style="width: 100%;">
 
 <div style="display: flex;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=midnight_purple" alt="Repos per Language" style="width: 240px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=midnight_purple" alt="Most Commit Language" style="width: 240px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladnovice&theme=midnight_purple&utcOffset=8" alt="Productive Time" style="width: 240px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladnovice&theme=midnight_purple" alt="Productive Time" style="width: 240px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=midnight_purple">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=midnight_purple">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladnovice&theme=midnight_purple&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladnovice&theme=midnight_purple">
 </div>
 
 
