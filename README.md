@@ -5,8 +5,7 @@
 <div style="display: flex;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=midnight_purple">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=midnight_purple">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vladnovice&theme=midnight_purple&utcOffset=8">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vladnovice&theme=midnight_purple">
+
 </div>
 
 
