@@ -3,7 +3,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladnovice&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vladnovice&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vladnovice&theme=midnight_purple) 
-
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/0MvjUr7fKzchb49tt3OrMS?si=d970d6f710eb4a31)
 
 
 ## About me
