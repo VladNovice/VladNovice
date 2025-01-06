@@ -23,6 +23,8 @@
 
     OS: kali linux, windows 11
 
+    Number of private repositories: 2
+
 
 
 
