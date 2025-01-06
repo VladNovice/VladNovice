@@ -23,7 +23,7 @@
 
     OS: kali linux, windows 11
 
-    Number of private repositories: 2
+    Number of private repositories: 2 -- telegram bot -- website <<Vansberg.com>>
 
 
 
