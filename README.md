@@ -25,10 +25,12 @@
 
     Number of private repositories: 2 -- telegram bot <<BySHhopRu>>; website <<Vansberg.com>>
 
+## tooling
 
-
-
-
+    IDE: VsCode, Vim 
+    database: sqlite, sqlalchemy
+    browser: FireFox, Tor
+    
 
 ## Skills
 <img src="https://simpleicons.org/icons/cplusplus.svg" align="left" width="100" height="100"> <img src="https://simpleicons.org/icons/python.svg" align="left" width="100" height="100"> <img src="https://simpleicons.org/icons/html5.svg" align="left" width="100" height="100"> 
