@@ -28,7 +28,9 @@
 ## tooling
 
     IDE: VsCode, Vim 
+    
     database: sqlite, sqlalchemy
+    
     browser: FireFox, Tor
     
 
