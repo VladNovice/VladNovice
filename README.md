@@ -19,7 +19,7 @@
 
     Age: 15
 
-    I'm interested in: AI
+    I'm interested in: business startups in the field of IT, cyber-security
 
     OS: kali linux, windows 11
 
