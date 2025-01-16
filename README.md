@@ -12,7 +12,7 @@
 ![](https://pin.it/1wY3Mmyun)
 
 
-## About me
+## About me 
 
 
     Name: Vlad Novice
@@ -25,7 +25,7 @@
 
     Number of private repositories: 2 -- telegram bot <<BySHhopRu>>; website <<Vansberg.com>>
 
-## tooling
+## tooling 
 
     IDE: VsCode, Vim 
     
@@ -34,13 +34,13 @@
     browser: FireFox, Tor
     
 
-## Skills
+## Skills 
 <img src="https://simpleicons.org/icons/cplusplus.svg" align="left" width="100" height="100"> <img src="https://simpleicons.org/icons/python.svg" align="left" width="100" height="100"> <img src="https://simpleicons.org/icons/html5.svg" align="left" width="100" height="100"> 
  <img src="https://simpleicons.org/icons/css3.svg" align="left" width="100" height="100">
  <img src="https://simpleicons.org/icons/fastapi.svg" align="left" width="100" height="100">
  <img src="https://simpleicons.org/icons/sqlite.svg" align="left" width="100" height="100">
 <br><br><br><br> <br>
-## Cats
+## Cats 💖
 
 ![th-2210421706](https://github.com/user-attachments/assets/3216ca1a-da6d-4e17-a107-b259cb75719c)
 
