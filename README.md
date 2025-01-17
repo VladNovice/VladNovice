@@ -39,6 +39,7 @@
  <img src="https://simpleicons.org/icons/css3.svg" align="left" width="100" height="100">
  <img src="https://simpleicons.org/icons/fastapi.svg" align="left" width="100" height="100">
  <img src="https://simpleicons.org/icons/sqlite.svg" align="left" width="100" height="100">
+ <img src="https://aiogram1.readthedocs.io/ru/latest/_static/logo.png" align="left" width="100" height="100">
 <br><br><br><br> <br>
 ## Cats 💖
 
