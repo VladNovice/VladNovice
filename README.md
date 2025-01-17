@@ -42,7 +42,8 @@
 <br><br><br><br> <br>
 ## Cats 💖
 
-![th-2210421706](https://github.com/user-attachments/assets/3216ca1a-da6d-4e17-a107-b259cb75719c)
+![th-1113985440](https://github.com/user-attachments/assets/e83a080b-ee1d-45f1-b804-b364cf5e4167)
+
 
 
 
