@@ -29,7 +29,7 @@
 
     IDE: VsCode, Vim 
     
-    database: sqlite, sqlalchemy
+    database: sqlite, sqlalchemy (sqliteStudio, DBeaver)
     
     browser: FireFox, Tor
     
