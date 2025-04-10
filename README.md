@@ -23,7 +23,7 @@
 
     OS: kali linux, windows 11
 
-    Number of private repositories: 20+
+    Number of private repositories: 24+
 
 ## tooling 
 
