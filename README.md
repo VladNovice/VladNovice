@@ -23,13 +23,15 @@
 
     OS: kali linux, windows 11
 
-    Number of private repositories: 24+
+    Number of private repositories: 27+
 
 ## tooling 
 
     IDE: VsCode, Vim 
     
     database: sqlite, sqlalchemy (sqliteStudio, DBeaver)
+
+    languages: python, go, c++
     
     browser: FireFox, Tor
     
