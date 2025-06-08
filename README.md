@@ -19,7 +19,7 @@
 
     Age: 15
 
-    I'm interested in: business startups in IT, cyber-security
+    I'm interested in: business startups in IT, AI | ML
 
     OS: kali linux, windows 11
 
@@ -27,9 +27,9 @@
 
 ## tooling 
 
-    IDE: VsCode, Vim 
+    IDE: VsCode, Jupyter Notebook, Vim 
     
-    database: sqlite, sqlalchemy (sqliteStudio, DBeaver)
+    database: sqlite3, sqlalchemy (sqliteStudio, DBeaver)
 
     languages: python, go, c++
     
